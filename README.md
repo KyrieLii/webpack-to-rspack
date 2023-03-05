@@ -1,5 +1,13 @@
 # Configuration mapping from webpack to rspack
 
+[Webpack](https://webpack.js.org/) is an outstanding project that has been developed over many years and supports the building of thousands of web applications.
+
+[Rspack](https://www.rspack.dev/) is a new project that is dedicated to faster web application builds while also being compatible with the webpack ecosystem.
+
+> This is not an official documentation and accuracy is not guaranteed. Only intended for developers as a reference. The rspack team may provide official documentation.
+
+> Based on webpack 5.
+
 > ✅: support
 >
 > ❌: not support
